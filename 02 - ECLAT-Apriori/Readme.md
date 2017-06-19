@@ -1,6 +1,6 @@
 # Apriori and ECLAT application to build recommendation system (product allocation strategy)
 
-Trained association rule models (Apriori and ECLAT) to find the most related items bought by customers of a french supermarket during a week. All 7501 lines of the dataset represent items bought by an unique customer, during this week.
+Trained association rule models (Apriori and ECLAT) to find the most related items bought by customers of a french supermarket during a week. Each of 7501 lines on the dataset represent items that an unique customer bought during the week.
 
 The dataset and code are based on a lecture from the course: Machine Learning A-Z™ by Kirill Eremenko https://www.udemy.com/machinelearning/learn/v4/overview. I modified the code to do some transformations and fit data into dataframes to make the visualization easier, and also developed ECLAT algorithm from scratch.
 
